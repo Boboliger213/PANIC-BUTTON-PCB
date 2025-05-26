@@ -1,5 +1,5 @@
 # PANIC-BUTTON-PCB
-A PCB that activates your fight-or-flight response. Pressing the button will activate flashing lights and a loud buzzing sound, you can use it as an SOS, or to wake yourself up in the morning.
+A PCB that activates your fight-or-flight response. Pressing the button will activate flashing lights and a loud buzzing sound, you can use it as an SOS, or to wake yourself up in the morning. This is made in EasyEDA for Hack Club Solder. Gerber file, JSON file and BOM file is included in the repo.
 
 # SCREENSHOTS
 ![image](https://github.com/user-attachments/assets/43cfb287-87f0-40bf-bb52-902cd5bba026)
